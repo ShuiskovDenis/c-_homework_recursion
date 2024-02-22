@@ -1,0 +1,14 @@
+E:\School\homework c# recursion\recursion\bin\Debug\net8.0\recursion.exe
+E:\School\homework c# recursion\recursion\bin\Debug\net8.0\recursion.deps.json
+E:\School\homework c# recursion\recursion\bin\Debug\net8.0\recursion.runtimeconfig.json
+E:\School\homework c# recursion\recursion\bin\Debug\net8.0\recursion.dll
+E:\School\homework c# recursion\recursion\bin\Debug\net8.0\recursion.pdb
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.AssemblyInfoInputs.cache
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.AssemblyInfo.cs
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.csproj.CoreCompileInputs.cache
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.dll
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\refint\recursion.dll
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.pdb
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\recursion.genruntimeconfig.cache
+E:\School\homework c# recursion\recursion\obj\Debug\net8.0\ref\recursion.dll
