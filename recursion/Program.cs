@@ -113,5 +113,3 @@
 // Console.WriteLine("\n");
 // Console.Write("Reverse array -> ");
 // ReverseArray(array, 0, array.Length-1);
-
-123
